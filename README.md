@@ -25,3 +25,11 @@ Additionally, I implemented machine learning models using Spark MLlib to predict
 Throughout the project, I focused on optimizing query performance, parallel processing of data, and ensuring scalability for future IPL seasons. I presented the findings through interactive dashboards using Tableau, allowing stakeholders to explore the insights dynamically.
 
 This project enhanced my skills in handling real-world large-scale datasets, applying Big Data frameworks, and deriving actionable insights from sports data. It also strengthened my ability to work with both structured and unstructured data while effectively communicating technical findings to a non-technical audience.
+
+# OUTPUT : ![Image](https://github.com/user-attachments/assets/d46461a4-2de9-4003-8abb-ed21ce10d1fd)
+
+![Image](https://github.com/user-attachments/assets/7012aa67-39e9-4c2c-864e-4e2fc64f8bb7)
+
+![Image](https://github.com/user-attachments/assets/98d8fe6f-a66d-4262-a480-bf4ce7b82833)
+
+![Image](https://github.com/user-attachments/assets/7da42a02-ed43-4e6f-ba59-3c0accaaa13e)
